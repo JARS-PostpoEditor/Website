@@ -1,0 +1,93 @@
+Create a fully responsive personal portfolio website (not a web app) for showcasing my audiovisual post-production work. The output must be a complete static website compatible with GitHub Pages, using only HTML, CSS, and JavaScript (no backend frameworks, no build tools, no dependencies like React, Vue, Angular, or Node-based bundlers). Everything must run client-side.
+
+Requirements:
+
+1. Purpose & Style
+
+The website should serve as a clean, modern audiovisual post-production portfolio.
+
+Aesthetic: cinematic, minimalistic, dark theme with subtle neon accents.
+
+Smooth transitions and micro-animations (CSS only or lightweight JS).
+
+Fully responsive layout for desktop, tablet, and mobile.
+
+2. Pages/Sections
+
+Create a single-page layout with smooth scrolling and the following sections:
+
+Hero Section
+
+Full-screen background image or video.
+
+My name and profession: "Audiovisual Post-Production Artist".
+
+A call-to-action button: "View My Work" that scrolls to the portfolio section.
+
+About Section
+
+Space for a profile picture.
+
+A short biography.
+
+Skills list (color grading, VFX, editing, motion graphics, compositing, etc.).
+
+Portfolio Section
+
+Grid or gallery of project thumbnails.
+
+Each project should open a modal/lightbox with:
+
+Embedded video (YouTube/Vimeo links allowed).
+
+Project description.
+
+Tags (e.g., VFX, color grading, editing, motion graphics).
+
+Contact Section
+
+Contact form (client-side only).
+
+Email link.
+
+Social media icons (Instagram, Vimeo, YouTube, LinkedIn, etc.).
+
+Footer
+
+Copyright notice.
+
+GitHub link.
+
+3. Technical Requirements
+
+Must work flawlessly on GitHub Pages, meaning:
+
+Use only static files: index.html, style.css, script.js.
+
+No server-side code.
+
+No absolute paths—use only relative paths.
+
+Should not require any build process.
+
+4. Code Quality
+
+Clean, semantic HTML.
+
+Organized CSS with variables for theme colors.
+
+Lightweight vanilla JavaScript only.
+
+Include comments explaining important sections.
+
+5. Delivery Format
+
+Provide:
+
+index.html
+
+style.css
+
+script.js
+
+A folder structure ready to upload to a GitHub Pages repository.
